@@ -14,13 +14,14 @@
         <RootNamespace>IGWebApiClient</RootNamespace>
         <PackageId>com.timdinh.IGWebApiClient</PackageId>
         <Product>IGWEbApiClient</Product>
-        <AssemblyVersion>1.5.29.0</AssemblyVersion>
-        <FileVersion>1.5.29.0</FileVersion>
+        <AssemblyVersion>1.5.29.1</AssemblyVersion>
+        <FileVersion>1.5.29.1</FileVersion>
+        <Version>1.5.29.1</Version>
     </PropertyGroup>
 
     <ItemGroup>
       <PackageReference Include="Lightstreamer.DotNet.Client" Version="3.1.6640.22649" />
-      <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+      <PackageReference Include="Newtonsoft.Json" Version="9.0.1" />
       <PackageReference Include="PCLCrypto" Version="2.0.147" />
     </ItemGroup>
 
